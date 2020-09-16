@@ -16,8 +16,9 @@
   ・プログラミング用のフォント導入と設定<br>
   ・ファイルの拡張子を表示する設定<br>
   
-3. HTMLの基本を覚えよう（[こちら](https://dotinstall.com/lessons/basic_html_v5/49801)）<br>
-  ※「ブランチ」を切って、そこで作業してください。
+3. HTMLの基本を覚えよう<br>
+  課題（[こちら](https://dotinstall.com/lessons/basic_html_v5/49801)）<br>
+  対応するissue（[こちら](https://github.com/captain0001/portfolio_miura/issues/1)）<br>
   ※1レッスン1コミットでお願いします。
 
 4. CSSの基本を覚えよう（[こちら](https://dotinstall.com/lessons/basic_css_v5/49901)）<br>
