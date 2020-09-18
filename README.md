@@ -29,5 +29,5 @@
 5. ポートフォリオサイトを作ろう
 
 　項番3と4の覚えた知識を基にポートフォリオサイトを作ります。<br>
-  対応するissue([こちら](https://github.com/captain0001/portfolio_miura/issues/4))
+  　対応するissue([こちら](https://github.com/captain0001/portfolio_miura/issues/4))
 　
