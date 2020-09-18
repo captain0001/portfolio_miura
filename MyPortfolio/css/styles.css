@@ -80,9 +80,10 @@ header{
   font-weight: normal;
 }
 
-.works p {
+.works p{
   line-height: 1.8;
 }
+
 footer p{
   text-align: center;
   font-size: 14px;
