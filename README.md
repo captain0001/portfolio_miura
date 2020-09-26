@@ -18,10 +18,14 @@
   
 3. HTMLの基本を覚えよう<br>
   課題（[こちら](https://dotinstall.com/lessons/basic_html_v5/49801)）<br>
-  対応するissue（[こちら](https://github.com/captain0001/portfolio_miura/issues/1)）<br>
-  ※1レッスン1コミットでお願いします。
+  対応するissue（[こちら](https://github.com/captain0001/portfolio_miura/issues/1)）
 
 4. CSSの基本を覚えよう<br>
   課題（[こちら](https://dotinstall.com/lessons/basic_css_v5/49901)）<br>
-  対応するissue（[こちら](https://github.com/captain0001/portfolio_miura/issues/2)）<br>
-  ※1レッスン1コミットでお願いします。
+  対応するissue（[こちら](https://github.com/captain0001/portfolio_miura/issues/2)）
+
+5. ポートフォリオサイトを作ろう
+
+　　項番3と4の覚えた知識を基にポートフォリオサイトを作ります。<br>
+  　　対応するissue([こちら](https://github.com/captain0001/portfolio_miura/issues/4))
+　
